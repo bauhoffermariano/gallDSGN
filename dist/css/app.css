@@ -359,7 +359,7 @@ body {
 }
 
 .hero {
-  background-image: url(../../../dist/img/arrow.svg), url(../../../dist/img/pngs/stair3.png), url(/dist/img/pngs/artistic-blurry-colorful-wallpaper-background.jpg);
+  background-image: url(../../../dist/img/arrow.svg), url(../../../dist/img/pngs/stair3.png), url(dist/img/pngs/artistic-blurry-colorful-wallpaper-background.jpg);
   background-position: 9% 98%, bottom right, left top;
   background-size: 10%, 72%, cover;
   background-repeat: no-repeat;
