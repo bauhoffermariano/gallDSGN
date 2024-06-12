@@ -332,7 +332,7 @@ button:hover {
 
 @font-face {
   font-family: "Raleway";
-  src: url(../../../dist/fonts/Raleway/Raleway-VariableFont_wght.ttf) format("truetype");
+  src: url(dist/fonts/Raleway/Raleway-VariableFont_wght.ttf) format("truetype");
   font-style: normal;
   font-weight: normal;
 }
@@ -344,7 +344,7 @@ button:hover {
 }
 @font-face {
   font-family: "Monument Extended";
-  src: url(../../../dist/fonts/monumentextended-freeforpersonaluse/MonumentExtended-FreeForPersonalUse/MonumentExtended-Regular.otf) format("opentype");
+  src: url(/dist/fonts/monumentextended-freeforpersonaluse/MonumentExtended-FreeForPersonalUse/MonumentExtended-Regular.otf) format("opentype");
   font-style: normal;
   font-weight: normal;
 }
